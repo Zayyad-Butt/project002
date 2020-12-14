@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import MyPractice3 from './practice3'
 
